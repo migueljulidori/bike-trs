@@ -1,0 +1,4 @@
+Erros ID
+
+1 = Sinal de Transito
+2 = Lado Errado
